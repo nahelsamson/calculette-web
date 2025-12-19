@@ -1,0 +1,3 @@
+- [x] Addition
+- [x] Soustraction
+- [ ] Multiplication
